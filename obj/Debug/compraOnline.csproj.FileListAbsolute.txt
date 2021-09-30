@@ -1,0 +1,8 @@
+C:\Users\sthef\source\repos\Variaveis\compraOnline\bin\Debug\compraOnline.exe.config
+C:\Users\sthef\source\repos\Variaveis\compraOnline\bin\Debug\compraOnline.exe
+C:\Users\sthef\source\repos\Variaveis\compraOnline\bin\Debug\compraOnline.pdb
+C:\Users\sthef\source\repos\Variaveis\compraOnline\obj\Debug\compraOnline.csproj.AssemblyReference.cache
+C:\Users\sthef\source\repos\Variaveis\compraOnline\obj\Debug\compraOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\sthef\source\repos\Variaveis\compraOnline\obj\Debug\compraOnline.csproj.CoreCompileInputs.cache
+C:\Users\sthef\source\repos\Variaveis\compraOnline\obj\Debug\compraOnline.exe
+C:\Users\sthef\source\repos\Variaveis\compraOnline\obj\Debug\compraOnline.pdb
